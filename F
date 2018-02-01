@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
-# Yahoo&flickr          ●
+# Yahoo&flickr
 68.142.242.184 real-min-ruler.secure.yahoo.com
 69.147.92.11 flickr.com
 98.136.145.80 secure.flickr.com
